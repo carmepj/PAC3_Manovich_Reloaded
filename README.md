@@ -9,7 +9,7 @@ La **hibridació** és un concepte que consisteix en un procés de remediació o
 Hi ha diferents àmbits en què la hibridació hi té lloc, com per exemple: art electrònic, entreteniment, formats de publicació, etc. En aquest cas ens centrarem en dos exemples diferents entre ells:    
 
 * **Animal Crossing New Horizons**, joc de simulació virtual creat per Nintendo.  
-* **Visita Virtual Parc Güell**, que, com el seu nom indica, permet fer una visita virtual de l'espai físic del Parc Güell.  
+* **Visita Virtual Park Güell**, que, com el seu nom indica, permet fer una visita virtual de l'espai físic del Parc Güell.  
 
   
 ## Exemple d'Hibridació 1: Animal Crossing New Horizons
@@ -33,12 +33,12 @@ Per tot això que s'ha comentat anteriorment, podem dir que Animal Crossing New 
 
 Com a conclusió d'aquest exemple, es pot dir que Animal Crossing New Horizons, juntament amb la consola Nintendo Switch, proporcionen un bon exemple d'hibridació gràcies a la gran quantitat de fusió de medis que permeten a l'usuari viure una experiència original i captivadora.
 
-## Exemple d'Hibridació 2: Visita Virtual Parc Güell  
-Per altra banda, tenim l'exemple d'hibridació de la visita virtual del Parc Güell. El Parc Güell es troba a Barcelona i és una gran zona exterior que compta amb elements arquitectònics característics, dissenyats per l'arquitecte Antoni Gaudí i inaugurat l'any 1922.  
+## Exemple d'Hibridació 2: Visita Virtual Park Güell  
+Per altra banda, tenim l'exemple d'hibridació de la visita virtual del Park Güell. El Parc Güell es troba a Barcelona i és una gran zona exterior que compta amb elements arquitectònics característics, dissenyats per l'arquitecte Antoni Gaudí i inaugurat l'any 1922.  
 
 El Parc Güell s'ha convertit en un atractiu turístic per tot aquell que visita Barcelona i, per tant, s'ha imposat una entrada de pagament, encara que, així i tot, el Parc disposa d'un gran nombre de visites durant tot l'any, i hi ha l'opció de fer una visita guiada per tot el recinte.  
 
-Així i tot, avui en dia no és necessari anar fins a Barcelona per poder contemplar les construccions del Parc Güell, sinó que gràcies a les noves tecnologies es pot fer un recorregut a través d'Internet de forma virtual.  
+Així i tot, avui en dia no és necessari anar fins a Barcelona per poder contemplar les construccions del Park Güell, sinó que gràcies a les noves tecnologies es pot fer un recorregut a través d'Internet de forma virtual.  
 
 ![VisitaVirtualParcGüell](https://user-images.githubusercontent.com/121101156/208886719-eb1cf3d1-d67a-4984-a887-cb414be0f28c.png)
 
